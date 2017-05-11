@@ -1,0 +1,8 @@
+rhodes_path='C:/RhoMobileSuite5.5.0.1/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.1'
+app_version='1.0'
+app_name='rho-ionic-loopback'
+reload_app_changes=0
+debug_port=
+debug_host='127.0.0.1'
+platform='wm'
+ext_path=C:/RhoMobileSuite5.5.0.1/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.1/lib/commonAPI/coreapi;C:/RhoMobileSuite5.5.0.1/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.1/lib/extensions/json;C:/RhoMobileSuite5.5.0.1/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.1/../rho-tau-extensions-5.5.0.1/libs/webkit;C:/RhoMobileSuite5.5.0.1/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.1/lib/commonAPI/symboldevice;C:/RhoMobileSuite5.5.0.1/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.1/lib/commonAPI/barcode;C:/RhoMobileSuite5.5.0.1/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.1/lib/commonAPI/indicators;C:/RhoMobileSuite5.5.0.1/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.1/lib/commonAPI/cardreader;C:/RhoMobileSuite5.5.0.1/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.1/lib/commonAPI/signature;C:/RhoMobileSuite5.5.0.1/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.1/lib/commonAPI/hardwarekeys;C:/RhoMobileSuite5.5.0.1/ruby/lib/ruby/gems/1.9.1/gems/rhodes-5.5.0.1/lib/commonAPI/sensor;
